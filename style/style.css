@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0 10px;
+    font-family: 'Palatino', Times, serif;
+    line-height: normal;
+}
+
+div#container {
+    margin: auto;
+    max-width: 800px;
+}
+
+div#textbox {
+    background-color: #FEFAF2;
+    border: 1px solid wheat;
+    padding: 10px 20px 0 20px;
+    float: left;
+    max-width: 760px;
+}
+
+#logo {
+    width: 92%;
+    padding: 8% 4%;
+}
+
+.imagebox {
+    float: left;
+    padding-top: 40px;
+}
+
+.imagebox img {
+    width: 100%;
+}
+
+.caption {
+    padding-top: 12px;
+    padding-left: 4px;
+}
+
+h1 {
+    font-size: larger;
+}
+
+p {
+    line-height: 1.6;
+}
