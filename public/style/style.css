@@ -10,8 +10,7 @@ div#container {
 }
 
 div#textbox {
-  background-color: #FEFAF2;
-  border: 1px solid wheat;
+  border: 1px solid black;
   padding: 10px 20px 0 20px;
   max-width: 760px;
 }
@@ -19,6 +18,10 @@ div#textbox {
 #logo {
   width: 92%;
   padding: 8% 4%;
+}
+
+a {
+  color: rgb(164, 29, 33);
 }
 
 figure {
@@ -29,6 +32,7 @@ figure {
 figcaption {
   padding-top: 12px;
   padding-left: 4px;
+  line-height: 125%;
 }
 
 img {
