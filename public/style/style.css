@@ -20,6 +20,10 @@ div#textbox {
   padding: 8% 4%;
 }
 
+a {
+  color: rgb(164, 29, 33);
+}
+
 figure {
   margin: 0;
   padding-top: 40px;
