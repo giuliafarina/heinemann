@@ -9,7 +9,6 @@ name: Deploy to Firebase Hosting on merge
 jobs:
   deploy:
     name: Deploy
-    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
