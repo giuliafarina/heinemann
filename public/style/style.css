@@ -11,6 +11,7 @@ div#container {
 
 div#textbox {
   border: 1px solid black;
+  margin-bottom:  40px ;
   padding: 10px 20px 0 20px;
   max-width: 760px;
 }
@@ -25,8 +26,7 @@ a {
 }
 
 figure {
-  margin: 0;
-  padding-top: 40px;
+  margin: 30px 0 40px;
 }
 
 figcaption {
@@ -39,8 +39,9 @@ img {
   width: 100%;
 }
 
-img.tall {
+figure.tall {
   width: 50%;
+  margin-left: 25%;
 }
 
 h1 {
@@ -49,4 +50,10 @@ h1 {
 
 p {
   line-height: 1.6;
+}
+
+ h2.years{
+  color: rgb(164, 29, 33);
+  margin: 10px 0;
+  text-align: center;
 }
